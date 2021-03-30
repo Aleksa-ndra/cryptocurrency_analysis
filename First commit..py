@@ -29,6 +29,6 @@ req.text
 
 # In[ ]:
 
-
+print('New row to train GIT.')
 
 
